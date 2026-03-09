@@ -1,6 +1,12 @@
 # emergency-department-lwbs-analysis
 Data analytics capstone project analyzing operational drivers of emergency department patients leaving without being seen (LWBS).
 
+## Project Structure
+
+- **lwbs-operational-analysis.ipynb** — full exploratory analysis and predictive modeling  
+- **ER Wait Time Dataset.csv** — dataset used for analysis  
+- **dataset_description.txt** — explanation of dataset variables
+
 # Emergency Department Throughput Optimization
 
 ## Overview
