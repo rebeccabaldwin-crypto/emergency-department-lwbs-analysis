@@ -25,4 +25,4 @@ Model performance:
 
 ## Project File
 See the full analysis in the Jupyter Notebook:
-ER_LWBS.ipynb
+lwbs-operational-analysis.ipynb
